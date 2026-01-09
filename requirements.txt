@@ -3,3 +3,5 @@ python-dotenv
 openai
 docling
 pytesseract
+azure-cognitiveservices-vision-computervision
+PyMuPDF
